@@ -1,0 +1,24 @@
+.btn-ui {
+  background-color: #01bf71;
+  text-decoration: none;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 20px;
+  font-family: 'M PLUS Code Latin', sans-serif;
+  transition: 0.3s;
+  
+}
+.small {
+  padding: 10px 24px;
+}
+.big {
+  padding: 10px 50px;
+}
+.btn-ui.light-hover:hover {
+  background-color: rgb(255, 255, 255);
+  color: #000;
+}
+.btn-ui.dark-hover:hover {
+  background-color: #0d0d0d;
+  color: #fafafa;
+}
