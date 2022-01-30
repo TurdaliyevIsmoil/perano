@@ -1,4 +1,4 @@
-# My First work in React js
+# Perano React js Template
 
 > Technologies: ReactJs(react-scroll, reactTransitionGroup)
 
